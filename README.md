@@ -1,7 +1,7 @@
 # UGC AI is a full-stack AI-powered platform that helps users generate high-quality user-generated content (UGC) for ads and social media. Built using React + TypeScript on the frontend and Express.js on the backend.
 
 
-# UGC AI –![Uploading Screenshot (383).png…]()
+# UGC AI –()
  AI Powered UGC Content Generator
 
 UGC AI is a full-stack web application designed to help creators and marketers generate AI-powered user-generated content (UGC) for advertisements and social media campaigns.
